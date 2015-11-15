@@ -1,0 +1,3 @@
+img/products/*.jpg
+img/products/sm/*.jpg
+resources/views/*/*_orig.blade.php
